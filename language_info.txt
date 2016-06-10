@@ -1,0 +1,238 @@
+Country	Population	Languages
+Afghanistan	32564342	Farsi:50 Pashto:35 Uzbek:85 Turkmen:25
+Akrotiri	15700	English:70 Greek:30
+Albania	3029278	Albanian:92.8 Greek:5 Macedonian:0.6
+Algeria	39542166	Arabic:0.72 Berber:0.22 French:0.02
+American Samoa	54343	Samoan:88.6 English:3.6 Tongan:2.7
+Andorra	 85580	Catalan:50 Spanish:30 French:7 Portuguese:13
+Angola	 19625353	 Portuguese:55.2 Umbundu:17 Kikongo:6.2 Kimbundu:6.8 Chokwe:4.5 Nhaneca:2.4 Nganguela:2.1 Fiote:2.4 Kwanhama:2.3 Muhumbi:2.1 Luvale:1
+Anguilla	16418	English:97
+Antigua and Barbuda	 92436	English:60 Spanish:20 Creole:17
+Argentina	43431886	 Spanish:87 Italian:3 English:2 German:2 French:1 Quechua:1
+Armenia	    3056382	 Armenian:97.9 Kurdish:1
+Aruba	    112162	 Papiamento:69.4 Spanish:13.7 English:7.1 Dutch:6.1 Mandarin:1.5
+Australia	22751014	 English:76.8 Mandarin:1.6 Italian:1.4 Arabic:1.3 Greek:1.2 Cantonese:1.2 Vietnamese:1.1
+Austria	8665550	 German:88.6 Turkish:2.3 Serbian:2.2 Croatian:1.6
+Azerbaijan	9780780	 Azerbaijani:92.5 Russian:1.4 Armenian:1.4
+The Bahamas	324597	 English:90 Creole:9
+Bahrain	1346613	 Arabic:70.5 English:11 Farsi:7 Urdu:6
+Bangladesh	168957613	 Bangla:98.8
+Barbados	290604	 Bajan:70 English:27
+Belarus	9589689	 Russian:70.2 Belarusian:23.4
+Belgium	11323973	Dutch:59 French:39
+Belize	347369	 English:42.9 Spanish:36.6 Creole:24.6 Maya:10.5 German:3.2 Garifuna:2.9
+Benin	10448647	 French:70 Fon:10 Yoruba:11
+Bermuda	70196	 English:81 Portuguese:17
+Bhutan	741919	 Sharchhopka:28 Dzongkha:24 Lhotshamkha:22
+Bolivia	10800882	Spanish:60.7 Quechua:21.2 Aymara:14.6 foreign:2.4 Guarani:0.6
+Bosnia and Herzegovina	3867055	Bosnian:33 Croatian:10 Serbian:25 Aromanian:9
+Botswana	2182719	Setswana:78.2 Kalanga:7.9 Sekgalagadi:2.8 English:2.1 Sesarwa:1.9 Sempukushu:1.7
+Brazil	204259812	Portuguese:87 German:2 Italian:1
+British Virgin Islands	33454	English:97
+Brunei	429646	Brunei:30 English:5
+Bulgaria	7186893	Bulgarian:76.8 Turkish:8.2 Roma:3.8
+Burkina Faso	18931686	French:90
+Burma	56320206	Burmese:93
+Burundi	10742276	Kirundi:29.7 :9.1 French:0.3 Swahili:0.2
+Cabo Verde	545993	Portuguese:75 Crioulo:10
+Cambodia	15708756	Khmer:96.3 other:3.7
+Cameroon	23739218	French:57 English:24
+Canada	35099836	English:58.7 French:22 Punjabi:1.4 Italian:1.3 Spanish:1.3 German:1.3 Cantonese:1.2 Tagalog:1.2 Arabic:1.1
+Cayman Islands	56092	English:90.9 Spanish:4 Filipino:3.3
+Central African Republic	5391539	Sangho:63 French:22.5
+Chad	11631456	French:57 Arabic:24
+Chile	17508260	Spanish:79.5 English:4 Mapudungun:3
+China	1367485388	Mandarin:70 Cantonese:9 Taiwanese:5 Wu:5 Minbei:4 Minnan:3
+Christmas Island	2205	English:90
+Cocos Islands	596	Malay:50 English:45
+Colombia	46736728	Spanish:94
+Comoros	780971	Shikomoro:95.9 French:2 Arabic:2
+Democratic Republic of the Congo	79375136	French:30 Lingala:13 Swahili:5.3 Kikongo:12
+Republic of the Congo	4755097	French:30 Lingala:13 Bateke:17.3 Monotokuba:11 Kikongo:1.4
+Cook Islands	9838	English:86.4 Cook:76.2
+Costa Rica	4814144	Spanish:73 English:22
+Cote d'Ivoire	23295302	Dioula:42 French:4
+Croatia	4464844	Croatian:95.6 Serbian:1.2
+Cuba	11031433	Spanish:93
+Curacao	148406	Papiamento:81.2 Dutch:8 Spanish:4 English:2.9
+Cyprus	1189197	Greek:80.9 Turkish:0.2 English:4.1 Romanian:2.9 Russian:2.5 Bulgarian:2.2 Arabic:1.2 Filipino:1.1
+Czech Republic	10644842	Czech:95.4 Slovak:1.6
+Denmark	5581503	Danish:90 German:2 Faroese:1 Greenlandic:1
+Dhekelia	15700	English:67 Greek:30
+Djibouti	828324	Somali:71 Afara:22 Arabic:5 French:2
+Dominica	73607	English:63 French:31
+Dominican Republic	10478756	Spanish:92
+Ecuador	15868396	Spanish:93
+Egypt	88487396	Arabic:91 French:3 English:2
+El Salvador	6141350	Spanish:83 Nawat:2
+Equatorial Guinea	740743	Spanish:67.6
+Eritrea	6527689	Tigrinya:50 Tigre:20 Arabic:11 English:5
+Estonia	1265420	Estonian:68.5 Russian:29.6 Ukrainian:0.6
+Ethiopia	99465819	Oromo:33.8 Amharic:29.3 Somali:6.2 Tigrigna:5.9 Sidamo:4 Wolaytta:2.2 Gurage:2 Afar:1.7 Hadiyya:1.7 Gamo:1.5 Gedeo:1.3 Opuuo:1.2 Kafa:1.1
+Falkland Islands	2931	English:89 Spanish:7.7
+Faroe Islands	50196	Faroese:83 Danish:14
+Fiji	909389	Fijian:54 Hindi:37 English:4
+Finland	5476922	Finnish:89 Swedish:5.3 Russian:1.3
+France	66553766	French:96 Alsatian:1.4 Corsican:1.25 Breton:0.6
+French Polynesia	282703	French:61.1 Polynesian:31.4
+Gabon	1705336	French:47 Fang:32
+The Gambia	1967709	Mandinka:38 Fula:21 Wolof:18 Jola:4.5 English:3
+Gaza Strip	1869055	Arabic:58 Hebrew:38
+Georgia	4931226	Georgian:71 Russian:9 Armenian:7 Azeri:6
+Germany	80854408	German:89 Bavarian:9
+Ghana	26327649	Asante:16 Ewe:14 Fante:11.6 Boron:4.9 Dagomba:4.4 Dangme:4.2 Dagarte:3.9 Kokomba:3.5 Akyem:3.2 Ga:3.1
+Gibraltar	29258	English:79 Spanish:19 Portuguese:1
+Greece	10775643	Greek:99
+Greenland	57733	Greenlandic:91 Danish:7 English:1
+Grenada	110694	Creole:90 English:3 French:2
+Guam	161785	English:43.6 Filipino:21.2 Chamorro:17.8
+Guatemala	14918999	Spanish:60
+Guernsey	66080	English:59 French:33
+Guinea-Bissau	1726170	Crioulo:90.4 Portuguese:27.1 :5.1 English:2.9
+Guinea	11780162	French:63
+Guyana	735222	English:42 Creole:27 Hindi:4
+Haiti	10110019	Creole:97
+Holy See	1000	Italian:92 French:2
+Honduras	8746673	Spanish:82 English:1.5
+Hong Kong	7141106	Cantonese:89.5 English:3.5 Putonghua:1.4
+Hungary	9897541	Hungarian:99.6 English:16 German:11.2 Russian:1.6 Romanian:1.3 French:1.2
+Iceland	331918	Icelandic:87 English:7
+India	1251695584	Hindi:41 Bengali:8.1 Telugu:7.2 Marathi:7 Tamil:5.9 Urdu:5 Gujarati:4.5 Kannada:3.7 Malayalam:3.2 Oriya:3.2 Punjabi:2.8 Assamese:1.3 Maithili:1.2
+Indonesia	255993674	Bahasa:72 Javanese:17 Sundanese:8 Madurese:3 Minangkabau:1
+Iran	81824270	Persian:59 Azerbaijani:18 Kurdish:10 Luri:7 Arabic:2 Balochi:2 Tati:2 Talysh:1
+Iraq	37056169	Arabic:59 Kurdish:19 Turkmen:5 Armenian:1
+Ireland	4892305	English:38.7 Irish:36.3 French:19 German:7
+Isle of Man	87545	English:92
+Israel	8049314	Hebrew:49 Arabic:18 Russian:15 Yiddish:2 French:2 English:2 Spanish:1.6 Roma:0.3
+Italy	61855120	Italian:0.93 Lombard:0.04 Neapolitan:1.3 Piemontese:0.7 Cimbrian:0.8 
+Jamaica	2950210	English:87
+Japan	126919659	Japanese:99
+Jersey	97294	English:94.5
+Jordan	8117564	Arabic:94
+Kazakhstan	18157122	Kazakh:74 Russian:19 Turkish:1
+Kenya	45925301	Kiswahili:64
+Kiribati	105711	I-Kiribati:84 English:11
+North Korea	24983205	Korean:99
+South Korea	49115196	Korean:91
+Kosovo	1870981	Albanian:94.5 Bosnian:1.7 Serbian:1.6 Turkish:1.1
+Kuwait	2788534	Arabic:98.5
+Kyrgyzstan	5664939	Kyrgyz:71.4 Uzbek:14.4 Russian:9
+Laos	6911544	Lao:71 French:3 English:2
+Latvia	1986705	Latvian:56.3 Russian:33.8
+Lebanon	6184701	Arabic:87 French:7 English:4 Armenian:3
+Lesotho	1947701	Sesotho:74 Zulu:14
+Liberia	4195666	English:20 Dan:11 Bassa:10 Bandi:2
+Libya	6411776	Arabic:65 Italian:2 Berber:27
+Liechtenstein	37624	German:94.5
+Lithuania	2884433	Lithuanian:82 Russian:8 Polish:5.6
+Luxembourg	570252	Luxembourgish:88.8 French:4.2 Portuguese:2.3 German:1.1
+Macau	592731	Cantonese:83.3 Mandarin:5 Hokkien:3.7 English:2.3 other:2 Tagalog:1.7 Portuguese:0.7
+Macedonia	2096015	Macedonian:66.5 Albanian:25.1 Turkish:3.5 Roma:1.9 Serbian:1.2
+Madagascar	23812681	Malagasy:93 English:1
+Malawi	17964697	Chichewa:33 Lomwe:10 Yao:5
+Malaysia	30513848	Bahasa:43 Cantonese:14 Mandarin:2 Thai:1
+Maldives	393253	Dhivehi:91
+Mali	16955536	French:46.3 Peul/Foulfoulbe:9.4 Dogon:7.2 Maraka/Soninke:6.4 Malinke:5.6 Sonrhai/Djerma:5.6 Minianka:4.3 Tamacheq:3.5 Senoufo:2.6 Bobo:2.1
+Malta	413965	Maltese:90.1 English:6
+Marshall Islands	72191	Marshallese:98.2
+Mauritania	3596702	Hassaniyya:87 Wolof:7
+Mauritius	1339827	Creole:86.5 Bhojpuri:5.3 French:4.1
+Mexico	121736809	Spanish:92.7
+Federated States of Micronesia	105216	English:21 Chuukese:48 Kosrean:2 Pohnpeian:1 Yapese:1
+Moldova	3546847	Moldovan:58.8 Russian:16 Ukrainian:3.8 Gagauz:3.1
+Monaco	37731	French:80 English:5 Italian:10 Ligurian:3
+Mongolia	2992908	Khalkha:90
+Montenegro	647073	Serbian:42.9 Montenegrin:37 Bosnian:5.3 Albanian:5.3 Serbo-Croat:2 other:3.5 unspecified:4
+Montserrat	5241	English:100
+Morocco	33322699	Arabic:62 Berber:21 French:7
+Mozambique	25303113	Emakhuwa:25.3 Portuguese:10.7 Xichangana:10.3 Cisena:7.5 Elomwe:7 Echuwabo:5.1
+Namibia	2212307	Oshiwambo:48.9 Damara:11.3 Afrikaans:10.4 Kavango:8.5 Caprivi:4.8 English:3.4
+Nauru	9540	Nauruan:93
+Nepal	31551305	Nepali:44.6 Maithali:11.7 Bhojpuri:6 Tharu:5.8 Tamang:5.1 Newar:3.2 Magar:3 Bajjika:3 Urdu:2.6 Avadhi:1.9 Limbu:1.3 Gurung:1.2
+Netherlands	16947904	Dutch:97 Frisian:2
+New Caledonia	271615	French:33
+New Zealand	4438393	English:89.8 Maori:3.5 Samoan:2 Hindi:1.6 French:1.2 Northern:1.2 Yue:1
+Nicaragua	5907881	Spanish:95.3 Miskito:2.2 Mestizo:2
+Nigeria	181562056	Hausa:98 Yoruba:1
+Niger	18045729	Hausa:46 Djerma:15 Tamajaq:2 Fulfulde:2
+Niue	1190	Niuean:46 English:11
+Norfolk Island	2210	English:67.6 other:32.4
+Northern Mariana Islands	52344	Philippine:32.8 Chamorro:24.1 English:17 other:10.1 Chinese:6.8 other:7.3 other:1.9
+Norway	5207689	Norwegian:92 Swedish:2 Danish:1 Sami:1 Finnish:1
+Oman	3286936	Arabic:92 English:2 Baluchi:1 Urdu:1
+Pakistan	199085847	Punjabi:48 Sindhi:12 Saraiki:10 Pashto:8 Urdu:8 Balochi:3 Hindko:2 Brahui:1 English:8
+Palau	21265	Palauan:66.6 Carolinian:0.7 other:0.7 English:15.5 Filipino:10.8 Chinese:1.8 other:2.6
+Panama	3657024	Spanish:93 Ngabere:1
+Papua New Guinea	6672429	Tok:12
+Paraguay	6783272	Spanish:41 Guarani:47
+Peru	30444999	Spanish:84.1 Quechua:13 Aymara:1.7 Ashaninka:0.3
+Philippines	100998376	Tagalog:38 Filipino:23 Cebuano:21
+Pitcairn Islands	48	English:100
+Poland	38562189	Polish:98.2 Silesian:1.4
+Portugal	10825309	Portuguese:94 Mirandese:3
+Puerto Rico	3598357	Spanish:98
+Qatar	2194817	Arabic:97
+Romania	21666350	Romanian:85.4 Hungarian:6.3 Romany:1.2
+Russia	142423773	Russian:85.7 Tatar:3.2 Chechen:1
+Rwanda	12661733	Kinyarwanda:93.2 Kinyarwanda:6.2 French:0.1 English:0.1 Swahili:0.02
+Saint Barthelemy	7237	French:98
+Saint Helena, Ascension, and Tristan da Cunha	7795	English:100
+Saint Kitts and Nevis	51936	English:100
+Saint Lucia	163922	English:92
+Saint Martin	31754	French:78 English:14 Dutch:4
+Saint Pierre and Miquelon	5657	French:100
+Saint Vincent and the Grenadines	102627	English:100
+San Marino	33020	Italian:100
+Sao Tome and Principe	194006	Portuguese:98.4 :36.2 Cabo:8.5 French:6.8 Angolar:6.6 English:4.9 Lunguie:1
+Saudi Arabia	27752316	Arabic:97
+Senegal	13975834	Wolof:43 Pulaar:21 Jola:14 Mandinka:5 French:1
+Serbia	7176794	Serbian:88.1 Hungarian:3.4 Bosnian:1.9 Romany:1.4
+Seychelles	92430	Seychellois:89.1 English:5.1 French:0.7
+Sierra Leone	5879098	Themne:30 Krio:11 English:10 Kurambo:8 Limba:7
+Singapore	5674472	Mandarin:36.3 English:29.8 Malay:11.9 Hokkien:8.1 Tamil:4.4 Cantonese:4.1 Teochew:3.2
+Sint Maarten	37132	English:67.5 Spanish:12.9 Creole:8.2 Dutch:4.2 Papiamento:2.2 French:1.5
+Slovakia	5445027	Slovak:78.6 Hungarian:9.4 Roma:2.3 Ruthenian:1
+Slovenia	1983412	Slovenian:91.1 Serbo-Croatian:4.5
+Solomon Islands	622469	Melanesian:12
+Somalia	10616380	Somali:61 Maay:15
+South Africa	53675563	IsiZulu:22.7 IsiXhosa:16 Afrikaans:13.5 English:9.6 Sepedi:9.1 Setswana:8 Sesotho:7.6 Xitsonga:4.5 siSwati:2.5 Tshivenda:2.4 isiNdebele:2.1
+South Sudan	12042910	Arabic:43 Nuer:24
+Spain	48146134	Castilian:74 Catalan:17 Galician:7 Basque:2
+Sri Lanka	22053488	Sinhala:74 Tamil:18
+Sudan	36108853	Arabic:82 Nubian:7
+Suriname	579633	Dutch:23 English:12 Sranang:11 Tongo:17 Hindi:6 Javanese:5
+Svalbard	1872	Norwegian:78 Russian:12
+Swaziland	1435613	siSwati:89 English:7
+Sweden	9801616	Swedish:91 Finnish:4 Sami:0.3 Roma:0.5
+Switzerland	8121830	German:63.5 French:22.5 Italian:8.1 English:4.4 Portuguese:3.4 Albanian:3.1 Serbo-Croatian:2.5 Spanish:2.2 Romansch:0.5
+Syria	17064854	Arabic:58 Kurdish:17 Armenian:7 Aramaic:4 Circassian:3
+Taiwan	23415126	Taiwanese:65 Mandarin:21 Hokkien:11
+Tajikistan	8191958	Tajik:81 Russian:5 Uzbek:2
+Tanzania	51045882	Swahili:33 Arabic:8 Gogo:4 Hehe:2 Maskonde:2 Maasai:1 Bena:1 Asu:1
+Thailand	67976405	Thai:90.7 Burmese:1.3
+Timor-Leste	1231116	Tetum:93 Portuguese:3 Indonesian:2 English:1
+Togo	7552318	Lama:32 Tem:24 Kabiye:13 Ewe:11 Mina:5
+Tokelau	1337	Tokelauan:93.5 Kiribati:2.7
+Tonga	106501	English:87 Tongan:10.7 English:1.2
+Trinidad and Tobago	1222363	English:91 Hindi:1 French:1
+Tunisia	11037225	Arabic:90 Berber:7 French:1
+Turkey	79414269	Turkish:78 Kurdish:10
+Turkmenistan	5231422	Turkmen:72 Russian:12 Uzbek:9
+Turks and Caicos Islands	50280	English:100
+Tuvalu	10869	Tuvaluan:78
+Uganda	37101745	Swahili:31 Ganda:10 Nyankore:5 Soga:5 Chiga:4 Massaba:1 Acholi:1
+Ukraine	44429471	Ukrainian:67.5 Russian:29.6
+United Arab Emirates	5779760	Arabic:81 Persian:13 Hindi:1 Urdu:1
+United Kingdom	64088222	English:97
+United States	321368864	English:79.2 Spanish:12.9
+Uruguay	3341893	Spanish:93 Portuguese:2 German:0.5
+Uzbekistan	29199942	Uzbek:74.3 Russian:14.2 Tajik:4.4
+Vanuatu	272264	local:63.2 Bislama:33.7 English:2 French:0.6
+Venezuela	29275460	Spanish:96
+Vietnam	94348835	Vietnamese:87.6 Mon-Khmer:7.3 Yue:4
+Virgin Islands	103574	English:71.6 Spanish:17.2 French:8.6
+Wallis and Futuna	15613	Wallisian:58.9 Futunian:30.1 French:10.8
+Western Sahara	570866	Hassaniya:98.5
+Yemen	26737317	Arabic:97.3 Mehri:0.3
+Zambia	15066266	Bembe:33.4 Nyanja:14.7 Tonga:11.4 Lozi:5.5 Chewa:4.5 Nsenga:2.9 Tumbuka:2.5 Lunda:1.9 Kaonde:1.8 Lala:1.8 Lamba:1.8 English:1.7 Luvale:1.5 Mambwe:1.3 Namwanga:1.2 Lenje:1.1 Bisa:1
+Zimbabwe	14229541	Shona:89 English:3
